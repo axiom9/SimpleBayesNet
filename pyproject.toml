@@ -8,9 +8,11 @@ packages = [{include = "main", from = "src"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-pomegranate = "^1.0.0"
+pomegranate = "0.14.8"
 pygraphviz = "^1.10"
 pytest = "^7.3.1"
+pandas = "^2.0.1"
+deepdiff = "^6.3.0"
 
 
 [build-system]
