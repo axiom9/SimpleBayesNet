@@ -3,9 +3,9 @@ from importlib import reload
 import json
 import os
 
-import preprocess
+# import preprocess
 
-# from src.main import preprocess
+from src.main import preprocess
 
 reload(preprocess)
 import pygraphviz
