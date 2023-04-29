@@ -5,3 +5,4 @@ tests/__pycache__
 # src/main/model.json
 # src/main/testingtests.py
 src/main/t.ipynb
+.venv
