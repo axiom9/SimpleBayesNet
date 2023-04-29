@@ -1,4 +1,4 @@
-from main import testingtests
+from src.main import testingtests
 
 
 def test_a():
