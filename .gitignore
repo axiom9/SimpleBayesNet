@@ -2,3 +2,4 @@
 .pytest_cache
 src/main/__pycache__
 tests/__pycache__
+src/main/testingtests.py

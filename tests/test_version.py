@@ -1,5 +1,8 @@
-# from src.main import __version__
+from main import testingtests
 
 
-# def test_version():
-#     assert __version__ == "0.1.0"
+def test_a():
+    input_val = 2
+    # the function simply outputs input_val + 1
+    a = testingtests.test_a(a=input_val)
+    assert a == input_val + 1
